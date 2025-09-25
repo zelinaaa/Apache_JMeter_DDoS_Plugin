@@ -5,3 +5,7 @@ Rozšíření DDoS modulu pro Apache JMeter do nástroje ICT Tester vyvíjeného
 
 ## Information about repository
 Extension of the DDoS module for Apache JMeter to the ICT Tester tool developed at the Institute of Telecommunications of the Brno University of Technology as part of a bachelor's thesis. The uploaded files are part of my development - they do not contain other parts necessary for operation.
+
+## Odkaz na práci / Link to thesis
+
+[https://dspace.vut.cz/items/fcc53762-034f-4536-89df-a72a5a140a27](https://dspace.vut.cz/items/fcc53762-034f-4536-89df-a72a5a140a27)
